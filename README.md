@@ -2,7 +2,7 @@
 
 Welcome to Dogman's Awesome repository!
 
-<img src="screenshots/shades.png" width="150">
+<img src="screenshots/logo.png" width="150">
 
 This is a large collection of example scenes, mechanics, and full tutorials meant to help you build scenes for Decentraland!
 
