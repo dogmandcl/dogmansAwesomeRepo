@@ -100,7 +100,7 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 Find a full playlist of all Decentraland video tutorials here:
 
-[Youtube Playlist](https://www.youtube.com/playlist?list=PLAcRraQmr_GPi-8qgv17ewdGl50OHuOhH)
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLAcRraQmr_GPi-8qgv17ewdGl50OHuOhH) |
 [SDK6 Starter Video](https://www.youtube.com/watch?v=rOs6-QHOYx4&t=127s)
 
 
