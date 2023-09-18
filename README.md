@@ -52,8 +52,8 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 | Example                                                                          | Thumbnail                                                  | Description                                                                                                                                                                                                                                         |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [FluffyCat (sdk7)](https://github.com/dogmandcl/fluffyCat)              | <img src="screenshots/sliding-door.png" width="200">       | An Endless Runner Game where you play as a cat avoiding obstacles and hunting birds for bonus points!                                                                                                  |
-| [SugarClub Drinking Game (sdk6)](https://github.com/toosad/drinking-game)              | <img src="screenshots/sliding-door.png" width="200">       | A metaverse drinking game where more drinks impair the users vision.
+| [FluffyCat (sdk7)](https://github.com/dogmandcl/fluffyCat)              | <img src="screenshots/cat.png" width="200">       | An Endless Runner Game where you play as a cat avoiding obstacles and hunting birds for bonus points!                                                                                                  |
+| [SugarClub Drinking Game (sdk6)](https://github.com/toosad/drinking-game)              | <img src="screenshots/sugar6.png" width="200">       | A metaverse drinking game where more drinks impair the users vision.
 
 
 #### Game Mechanics
