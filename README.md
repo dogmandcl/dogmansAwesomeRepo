@@ -1,6 +1,6 @@
 # Decentraland Awesome Repository
 
-Welcome to the Decentraland Awesome repository!
+Welcome to Dogman's Awesome repository!
 
 <img src="screenshots/shades.png" width="150">
 
