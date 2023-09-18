@@ -42,7 +42,7 @@ For a fully comprehensive introduction, we recommend you read the following topi
 - [Querying Component](https://docs.decentraland.org/creator/development-guide/sdk7/querying-components/)
 - [Files in a Scene](https://docs.decentraland.org/creator/development-guide/sdk7/scene-files/)
 
-See the [Decentraland documentation](docs.decentraland.org/creator) to find more specific information about various other.
+See the [Decentraland documentation](https://docs.decentraland.org/creator) to find more specific information about various other.
 
 ## Examples
 
