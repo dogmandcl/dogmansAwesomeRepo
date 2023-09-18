@@ -1,4 +1,4 @@
-# Decentraland Awesome Repository
+# Dogman's Awesome Repository
 
 Welcome to Dogman's Awesome repository!
 
