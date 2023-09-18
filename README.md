@@ -4,7 +4,7 @@ Welcome to Dogman's Awesome repository!
 
 <img src="screenshots/shades.png" width="150">
 
-This is a large collection of example scenes, libraries, and full tutorials meant to help you build scenes for Decentraland!
+This is a large collection of example scenes, mechanics, and full tutorials meant to help you build scenes for Decentraland!
 
 <details>
   <summary style="color: blue;">Content Index</summary>
