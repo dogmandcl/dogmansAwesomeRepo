@@ -36,11 +36,11 @@ Visit the Discord channel
 
 For a fully comprehensive introduction, we recommend you read the following topics from the Documentation:
 
-- [Entities & Components](https://docs.decentraland.org/development-guide/sdk7/entities-components/)
-- [Systems](https://docs.decentraland.org/development-guide/sdk7/systems/)
-- [Custom Components](https://docs.decentraland.org/development-guide/sdk7/custom-components/)
-- [Querying Component](https://docs.decentraland.org/development-guide/sdk7/querying-components/)
-- [Files in a Scene](https://docs.decentraland.org/development-guide/sdk7/scene-files/)
+- [Entities & Components](https://docs.decentraland.org/creator/development-guide/sdk7/entities-components/)
+- [Systems](https://docs.decentraland.org/creator/development-guide/sdk7/systems/)
+- [Custom Components](https://docs.decentraland.org/creator/development-guide/sdk7/custom-components/)
+- [Querying Component](https://docs.decentraland.org/creator/development-guide/sdk7/querying-components/)
+- [Files in a Scene](https://docs.decentraland.org/creator/development-guide/sdk7/scene-files/)
 
 See the [Decentraland documentation](docs.decentraland.org/creator) to find more specific information about various other.
 
