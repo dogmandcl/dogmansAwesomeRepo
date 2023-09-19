@@ -76,8 +76,7 @@ See the [Decentraland documentation](https://docs.decentraland.org/creator) to f
 
 | Example                                                                             | Thumbnail                                                | Description                                                                                                                           |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [Weathernator 3000](https://github.com/dogmandcl/buildWearable)                        | <img src="screenshots/weather.png" width="200">   |Smart wearable that allows users to check and mimic the weather of different major cities. Code is open source and free to use. Models are not to be used for profit in any form.     
-
+| [Weathernator 3000](https://github.com/dogmandcl/buildWearable)                        | <img src="screenshots/weather.png" width="200">   |Smart wearable that allows users to check and mimic the weather of different major cities. Code is open source and free to use. Models are not to be used for profit in any form. |   
 | [Flying Wearable](https://github.com/dogmandcl/Flying-Wearable-DCL)                        | <img src="screenshots/fly.png" width="200">   |Smart wearable that allows users to fly upward                                                                    |
                                                                   |
 
