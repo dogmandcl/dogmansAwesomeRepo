@@ -60,7 +60,7 @@ See the [Decentraland documentation](https://docs.decentraland.org/creator) to f
 
 | Example                                                                                                       | Thumbnail                                                          | Description                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Atari Arcade Cabinets](https://github.com/decentraland-scenes/atari-arcade-cabinets)                         | <img src="screenshots/atari-arcade-cabinets.gif" width="200">      | Arcade cabinets containing variations of the classic Breakout game.                                                                                                                                |
+<!-- | [Atari Arcade Cabinets](https://github.com/decentraland-scenes/atari-arcade-cabinets)                         | <img src="screenshots/atari-arcade-cabinets.gif" width="200">      | Arcade cabinets containing variations of the classic Breakout game.                                                                                                                                | -->
 
 
 #### Event Hosting
@@ -88,7 +88,7 @@ See the [Decentraland documentation](https://docs.decentraland.org/creator) to f
 
 | Example                                                                                                   | Thumbnail                                                     | Description                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Crypto Valley Conference Center](https://github.com/decentraland-scenes/crypto-valley-conference-center) | <img src="screenshots/conference-center.png" width="200">     | A fully equipeped venue ready for live events, with video streaming and POAP dispenser.                                                                                              |
+<!-- | [Crypto Valley Conference Center](https://github.com/decentraland-scenes/crypto-valley-conference-center) | <img src="screenshots/conference-center.png" width="200">     | A fully equipeped venue ready for live events, with video streaming and POAP dispenser.                                                                                              | -->
 
 
 
