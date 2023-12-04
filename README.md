@@ -4,7 +4,7 @@ Welcome to Dogman's Awesome repository!
 
 <img src="screenshots/logo.png" width="150">
 
-This is a large collection of example scenes, mechanics, and full tutorials meant to help you build scenes for Decentraland!
+This is a large collection of Open Source Repositories written by Dogman(Sam R.)
 
 <details>
   <summary style="color: blue;">Content Index</summary>
